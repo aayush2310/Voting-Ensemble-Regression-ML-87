@@ -5,3 +5,5 @@ Visualization:-
 At first we will train the model on only the linear regression.Since the voting Ensemble regression has only algo namely the linear regression,so the line for the linear 
 regression and the voting ensemble will be the same.Now I will add SVR(support vector regression) to the linear regression model i.e two different algo working on the same dataset.So the best fit line
 obtained will be better.Now after adding decision tree regressor as well,we get a more optimised best fit curve i.e 3 algos in the voting ensemble.
+
+
